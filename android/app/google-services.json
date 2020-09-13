@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "278173196374",
+    "firebase_url": "https://article-bf28f.firebaseio.com",
+    "project_id": "article-bf28f",
+    "storage_bucket": "article-bf28f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278173196374:android:3f3d7315e469790cd4dbf7",
+        "android_client_info": {
+          "package_name": "ukdw.ac.id.artickle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278173196374-s046nll2ot2fd9o2ovilt3sg2p7sjmd6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX-taVT1Ro84-UgvzgYB2oqBIndZVC22g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278173196374-s046nll2ot2fd9o2ovilt3sg2p7sjmd6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
